@@ -31,7 +31,7 @@ Built with CodeIgniter 4 following MVC architecture and real-world backend pract
 
 ### 🏠 Home
 <p align="center">
-  <img src="./home2.png" width="80%" />
+  <img src="./home.png" width="80%" />
 </p>
 
 ### ✨ Features Section
