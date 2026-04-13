@@ -46,6 +46,11 @@ Built with CodeIgniter 4 following MVC architecture and real-world backend pract
 
 ### ⚙️ Admin Panel
 <p align="center">
+  <img src="./dashboard.png" width="80%" />
+</p>
+
+
+<p align="center">
   <img src="./admin.png" width="80%" />
 </p>
 
