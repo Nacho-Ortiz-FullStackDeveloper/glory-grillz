@@ -11,7 +11,7 @@ Built with CodeIgniter 4 following MVC architecture and real-world backend pract
 - 👤 Role-based access (admin / user)
 - 🛒 Product management (CRUD)
 - 📦 Custom order request system
-- 📩 Contact & information forms
+- 📩 Contact and information forms
 - 🎨 Clean and responsive UI
 - 🗂 MVC architecture (CodeIgniter 4)
 - ⚡ Optimized structure and performance
@@ -30,16 +30,29 @@ Built with CodeIgniter 4 following MVC architecture and real-world backend pract
 ## 📸 Preview
 
 ### 🏠 Home
-![Home](public/assets/images/background_home.png)
+<p align="center">
+  <img src="./screenshots/home.png" width="80%" />
+</p>
+
+### ✨ Features Section
+<p align="center">
+  <img src="./screenshots/features.png" width="80%" />
+</p>
 
 ### 🛍 Products
-![Products](public/assets/images/grillz1.jpg)
+<p align="center">
+  <img src="./screenshots/products.png" width="80%" />
+</p>
 
-### 📄 Product Detail
-![Detail](public/assets/images/grillz2.jpg)
+### ⚙️ Admin Panel
+<p align="center">
+  <img src="./screenshots/admin.png" width="80%" />
+</p>
 
-### 💎 Custom / VIP Section
-![VIP](public/assets/images/premium.png)
+### 🔐 Login
+<p align="center">
+  <img src="./screenshots/login.png" width="80%" />
+</p>
 
 ---
 
