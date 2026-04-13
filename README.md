@@ -31,27 +31,27 @@ Built with CodeIgniter 4 following MVC architecture and real-world backend pract
 
 ### 🏠 Home
 <p align="center">
-  <img src="./screenshots/home.png" width="80%" />
+  <img src="./home2.png" width="80%" />
 </p>
 
 ### ✨ Features Section
 <p align="center">
-  <img src="./screenshots/features.png" width="80%" />
+  <img src="./features.png" width="80%" />
 </p>
 
 ### 🛍 Products
 <p align="center">
-  <img src="./screenshots/products.png" width="80%" />
+  <img src="./products.png" width="80%" />
 </p>
 
 ### ⚙️ Admin Panel
 <p align="center">
-  <img src="./screenshots/admin.png" width="80%" />
+  <img src="./admin.png" width="80%" />
 </p>
 
 ### 🔐 Login
 <p align="center">
-  <img src="./screenshots/login.png" width="80%" />
+  <img src="./login.png" width="80%" />
 </p>
 
 ---
